@@ -1,6 +1,7 @@
 # Hi, I'm Alexandra! ✨
 
 🚀 **Computer Engineering (Y3) @ TU Cluj-Napoca**
+
 🌱 Currently deep-diving into **Scalable AI models and Cloud-native environments**.
 
 ---

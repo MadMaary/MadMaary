@@ -6,6 +6,11 @@
 
 ---
 
+### 🛠️ My Toolbox
+
+* **💻 Languages:** Java, Python, C/C++, SQL, VHDL
+* **🔭 Tools & DevOps:** Git & GitHub, Docker, Maven, Gradle, Postgres
+
 <!--
 **MadMaary/MadMaary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

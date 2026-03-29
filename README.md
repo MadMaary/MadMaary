@@ -9,7 +9,13 @@
 ### 🛠️ My Toolbox
 
 * **💻 Languages:** Java, Python, C/C++, SQL, VHDL
-* **🔭 Tools & DevOps:** Git & GitHub, Docker, Maven, Gradle, Postgres
+* **🔭 Tools & DevOps:** Git & GitHub, Docker, Maven, Gradle, Postgres, Postman, Linux
+
+---
+
+### 📫 Let's Connect!
+* **LinkedIn:** [https://www.linkedin.com/in/alexandra-homiuc-50755828b/]
+* **Email:** [alexandrahomiuc@gmail.com]
 
 <!--
 **MadMaary/MadMaary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
